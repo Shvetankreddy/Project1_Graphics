@@ -27,4 +27,7 @@ L / R       Rotate grid left/right
 T / D	    Rotate grid up/down
 ESC	        Exit
 
+
 When C is pressed, enter the RGB values in the terminal using values between `0.0` and `1.0`.
+
+To run the code -> make run will compile and run with the help of Makefile
